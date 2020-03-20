@@ -25,3 +25,7 @@
 - [ch03_01.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-01)
 - [ch03_02.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-02)
 - [ch03_03.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-03)
+
+## FAQ
+
+- 電子版については、kindle版やkobo版などリフロー型を販売予定です。具体的な時期が確定次第、更新いたします。
