@@ -33,6 +33,10 @@
 
 電子版については、kindle版やkobo版などリフロー型を販売予定です。5月29日の配信を目指して、作業を進めているとのことです。
 
-### Kaggle Notebookの「Commit」が存在しません
+### Kaggle Notebookの「Commit」が存在しません（p. 41）
 
 2020年4月2日ごろにKaggle Notebookのデザインが更新されました。新デザインでのCommit方法は、[動画](https://youtu.be/2kMzUfajj1U)で解説しています。
+
+### Kaggle Notebookの「Submit」が存在しません（p. 43）
+
+2020年5月16日ごろにKaggle Notebookのデザインが更新されました。新デザインでのSubmit方法は、[動画](https://youtu.be/ESMKzVsR7wE)で解説しています。
