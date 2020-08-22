@@ -27,12 +27,14 @@
 - [ch03_02.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-02)
 - [ch03_03.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-03)
 
-## FAQ
+## よくある質問（FAQ）
+
+過去の全質問・やり取りは[こちら](https://github.com/upura/python-kaggle-start-book/issues?q=is%3Aissue)で公開しています。
 
 ### 電子版の販売はありますか？
 
 電子版については、kindle版やkobo版などリフロー型を5月26日から配信します。[オンライン書店](https://bookclub.kodansha.co.jp/buy?item=0000325172)にてご確認ください。
 
-### Kaggle Notebookの「Commit」が存在しません（p. 41）
+### p.41: Kaggle Notebookの「Commit」が存在しません
 
-2020年4月2日ごろにKaggle Notebookのデザインが更新されました。新デザインでのCommit方法は、[動画](https://youtu.be/2kMzUfajj1U)で解説しています。
+Kaggle Notebookのデザインは随時更新されています。2020年8月時点のCommit方法は、[動画](https://youtu.be/P4xTw_QQtlg)で解説しています。
