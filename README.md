@@ -3,7 +3,7 @@
 - 『PythonではじめるKaggleスタートブック』のサンプルコードです。
 - 書籍内の脚注は[こちら](footnote.md)にまとめています。
 - 正誤表は[こちら](errata.md)です。
-- ご感想・ご質問は、[issue](https://github.com/upura/python-kaggle-start-book/issues)にてお願いします。よくある質問（FAQ）は、[下記](https://github.com/upura/python-kaggle-start-book#faq)にまとめています。
+- ご感想・ご質問は、[issue](https://github.com/upura/python-kaggle-start-book/issues)にてお願いします。よくある質問（FAQ）は、[下記](https://github.com/upura/python-kaggle-start-book#%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8Ffaq)にまとめています。
 
 ## 各ディレクトリの内容
 
