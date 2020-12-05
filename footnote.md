@@ -20,7 +20,7 @@
 
 ## 第1章
 
-- [16] R: The R Project for Statistical Computing, https://www.r-project.org/ (Accessed: 30 November 2019).
+- [16] Kaggleで描く成長戦略 〜個人編・組織編〜, https://www2.slideshare.net/HaradaKei/devsumi-2018summer (Accessed: 24 December 2020).
 - [17] Kaggle Progression System, https://www.kaggle.com/progression (Accessed: 30 November 2019).
 - [18] KaggleのGrandmasterやmasterの条件や人数について調べたので、詳細に書きとめます。, http://www.currypurin.com/entry/2018/02/21/011316 (Accessed: 30 November 2019).
 - [19] SIGNATE, https://signate.jp/ (Accessed: 30 November 2019).
@@ -120,7 +120,7 @@
 
 - [105] GCPとDockerでKaggle用計算環境構築, https://qiita.com/lain21/items/a33a39d465cd08b662f1 (Accessed: 30 November 2019).
 - [106] Kaggle用のGCP環境を手軽に構築, https://qiita.com/hiromu166/items/2a738f7be49d88d8b599 (Accessed: 30 November 2019).
-- [107] Kaggleの画像コンペのためのGCPインスタンス作成手順（2019年10月版）, https://currypurin.qrunch.io/entries/T9iGWHdsiI6o2wke (Accessed: 30 November 2019).
+- [107] Kaggleの画像コンペのためのGCPインスタンス作成手順（2019年10月版）, https://www.currypurin.com/entry/2019/10/10/094133 (Accessed: 24 December 2020).
 
 ### 4.4 お勧めの資料・文献・リンク
 
