@@ -37,4 +37,4 @@
 
 ### p.41: Kaggle Notebookの「Commit」が存在しません
 
-Kaggle Notebookのデザインは随時更新されています。2020年8月時点のCommit方法は、[動画](https://youtu.be/P4xTw_QQtlg)で解説しています。
+Kaggle Notebookのデザインは随時更新されています。2021年2月時点のCommit方法は、[動画](https://youtu.be/lU_VY79vJfk)で解説しています。
