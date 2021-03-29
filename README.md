@@ -1,3 +1,5 @@
+[![readme_en](https://img.shields.io/static/v1?label=README&message=English&color=blue)](README_EN.md)
+
 # サンプルコード・脚注・正誤表
 
 - 『PythonではじめるKaggleスタートブック』のサンプルコードです。
@@ -33,7 +35,7 @@
 
 ### 電子版の販売はありますか？
 
-電子版については、kindle版やkobo版などリフロー型を5月26日から配信します。[オンライン書店](https://bookclub.kodansha.co.jp/buy?item=0000325172)にてご確認ください。
+2020年5月26日から、kindle版やkobo版などリフロー型で配信しています。[オンライン書店](https://bookclub.kodansha.co.jp/buy?item=0000325172)にてご確認ください。
 
 ### p.41: Kaggle Notebookの「Commit」が存在しません
 
