@@ -37,3 +37,7 @@ An electronic version is [available](https://bookclub.kodansha.co.jp/buy?item=00
 ### p.41: There is no "Commit" in Kaggle Notebook
 
 The design of the Kaggle Notebook is constantly updated, and you can find the [tutorial video](https://youtu.be/lU_VY79vJfk) on YouTube.
+
+### Is there the other languages version available?
+
+A traditional Chinese version 『Kaggle大師教您用Python玩資料科學，比賽拿獎金』 was published from 碁峰資訊（股）有限公司 in April 2021.

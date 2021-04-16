@@ -40,3 +40,7 @@
 ### p.41: Kaggle Notebookの「Commit」が存在しません
 
 Kaggle Notebookのデザインは随時更新されています。2021年2月時点のCommit方法は、[動画](https://youtu.be/lU_VY79vJfk)で解説しています。
+
+### 他言語版はありますか？
+
+中国語繁体字版の『[Kaggle大師教您用Python玩資料科學，比賽拿獎金](http://books.gotop.com.tw/v_ACD021100)』が、出版社：碁峰資訊（股）有限公司から2021年4月に出版されました。
