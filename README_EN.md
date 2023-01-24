@@ -40,4 +40,4 @@ The design of the Kaggle Notebook is constantly updated, and you can find the [t
 
 ### Is there the other languages version available?
 
-A traditional Chinese version 『Kaggle大師教您用Python玩資料科學，比賽拿獎金』 was published from 碁峰資訊（股）有限公司 in April 2021.
+[Traditional Chinese](http://books.gotop.com.tw/v_ACD021100) version and [Korean](https://jpub.tistory.com/1147) version were published in April 2021.
