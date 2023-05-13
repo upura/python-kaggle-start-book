@@ -77,10 +77,10 @@
 - [67] Kaggle State Farm Distracted Driver Detection, https://speakerdeck.com/iwiwi/kaggle-state-farm-distracted-driver-detection (Accessed: 30 November 2019).
 - [68] sklearn.model_selection.GroupKFold, https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html (Accessed: 30 November 2019).
 - [69] Profiling Top Kagglers: Bestfitting, Currently #1 in the World, https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b (Accessed: 30 November 2019).
-- [70] Kaggle Ensembling Guide, https://mlwave.com/kaggle-ensembling-guide/ (Accessed: 30 November 2019).
+- [70] Kaggle Ensembling Guide, http://web.archive.org/web/20210727094233/https://mlwave.com/kaggle-ensembling-guide/ (Accessed: 14 May 2023).
 - [71] Avito Demand Prediction Challenge, https://www.kaggle.com/c/avito-demand-prediction (Accessed: 30 November 2019).
 - [72] Kaggle Avito Demand Prediction Challenge 9th Place Solution, https://www.slideshare.net/JinZhan/kaggle-avito-demand-prediction-challenge-9th-place-solution-124500050 (Accessed: 30 November 2019).
-- [73] The BigChaos Solution to the Netflix Grand Prize, https://www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf (Accessed: 30 November 2019).
+- [73] The BigChaos Solution to the Netflix Grand Prize, https://www.asc.ohio-state.edu/statistics/statgen/joul_aut2009/BigChaos.pdf (Accessed: 14 May 2023).
 
 ## 第3章
 
@@ -124,8 +124,8 @@
 
 ### 4.4 お勧めの資料・文献・リンク
 
-- 4.4.1 kaggler-ja slack, https://kaggler-ja.herokuapp.com/
-- 4.4.2 kaggler-ja wiki, http://kaggler-ja-wiki.herokuapp.com/
+- 4.4.1 kaggler-ja slack, https://yutori-datascience.hatenablog.com/entry/2017/08/23/143146
+- 4.4.2 kaggler-ja wiki, https://kaggler-ja.wiki/
 - 4.4.3 門脇大輔ら,『Kaggleで勝つデータ分析の技術』, 技術評論社, 2019, https://gihyo.jp/book/2019/978-4-297-10843-4
 - 4.4.4 Kaggle Tokyo Meetupの資料・動画
 
