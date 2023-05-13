@@ -9,25 +9,30 @@
 
 ## 各ディレクトリの内容
 
-|ディレクトリ| 内容 |
-|:----|:-------|
-| input | 入力ファイル |
-| ch02 | 第2章のサンプルコード |
-| ch03 | 第3章のサンプルコード |
+- 「Kaggle (py36)」は、書籍の初版に合わせて公開したファイルです。Pythonバージョンは3.6です。ディレクトリ名`ch02`と`ch03`のファイルをアップロードしました。
+- 「Kaggle (py310)」は、書籍の5刷に合わせて公開したファイルです。Pythonバージョンは3.10です。
 
-## 対応するKaggleのNotebook
+| ディレクトリ | 内容 | ファイル名 | Kaggle (py36) | Kaggle (py310) |
+|:---|:---|:---|:---|:---|
+| input | 入力ファイル | - | - | - |
+| ch02 | 第2章のサンプルコード | ch02_01.ipynb | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-01) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-01) |
+| | | ch02_02.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-02) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-02) |
+| | | ch02_03.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-03) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-03) |
+| | | ch02_04.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-04) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-04) |
+| | | ch02_05.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-05) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-05) |
+| | | ch02_06.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-06) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-06) |
+| | | ch02_07.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-07) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-07) |
+| | | ch02_08.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-08) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch02-08) |
+| ch03 | 第3章のサンプルコード | ch03_01.ipynb | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-01) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch03-01) |
+| | | ch03_02.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-02) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch03-02) |
+| | | ch03_03.ipynb |  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-03) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/py310-python-kaggle-start-book-ch03-03) |
 
-- [ch02_01.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-01)
-- [ch02_02.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-02)
-- [ch02_03.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-03)
-- [ch02_04.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-04)
-- [ch02_05.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-05)
-- [ch02_06.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-06)
-- [ch02_07.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-07)
-- [ch02_08.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-08)
-- [ch03_01.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-01)
-- [ch03_02.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-02)
-- [ch03_03.ipynb](https://www.kaggle.com/sishihara/python-kaggle-start-book-ch03-03)
+### 「Kaggle (py310)」での主な変更点
+
+- 注：乱数やライブラリの仕様変更などの問題で、初版と合わせた公開したファイルと実行結果が一致しない場合があります。
+- LightGBMの[仕様変更](https://github.com/microsoft/LightGBM/pull/4908)に伴い`early_stopping_rounds`引数を削除しました。
+- ch03_02.ipynbで`dataiter.next()`を`next(dataiter)`に変更しました。
+- ch03_03.ipynbで`word2vec.Word2Vec`の引数の`size`を`vector_size`に変更しました。
 
 ## よくある質問（FAQ）
 
