@@ -131,8 +131,8 @@
 
 | 回 | URL |
 | -- | -- |
-| 第1回 | https://atnd.org/events/74953 |
-| 第2回 | https://techplay.jp/event/613561 |
+| 第1回 | https://kaggler-ja.wiki/5e82184687ef5e0040104d40 |
+| 第2回 | https://kaggler-ja.wiki/5e82190787ef5e0040104d45 |
 | 第3回 | http://yutori-datascience.hatenablog.com/entry/2017/10/29/205433 |
 | 第4回 | https://connpass.com/event/82458/presentation/ |
 | 第4回（動画） | https://www.youtube.com/watch?v=VMjnhGW2MgU&list=PLkBjLQIG@{}EjJlciM9lEz1AsuZZ8lDgyxDu |
