@@ -13,7 +13,7 @@
 - [9] Docker: Enterprise Container Platform, https://www.docker.com/ (Accessed: 30 November 2019).
 - [10] Container Registry - Google Cloud Platform, https://console.cloud.google.com/gcr/images/kaggle-images/GLOBAL/python (Accessed: 30 November 2019).
 - [11] PetFinder.my Adoption Prediction, https://www.kaggle.com/c/petfinder-adoption-prediction (Accessed: 30 November 2019).
-- [12] Kaggle Days Tokyo, https://kaggledays.com/tokyo/ (Accessed: 30 November 2019).
+- [12] Kaggle Days Tokyo, https://www.kaggle.com/c/kaggle-days-tokyo (Accessed: 10 March 2024).
 - [13] 機械学習を用いた日経電子版Proのユーザ分析 データドリブンチームの知られざる取り組み, https://logmi.jp/tech/articles/321077 (Accessed: 30 November 2019).
 - [14] Santander Value Prediction Challenge, https://www.kaggle.com/c/santander-value-prediction-challenge (Accessed: 30 November 2019).
 - [15] LANL Earthquake Prediction, https://www.kaggle.com/c/LANL-Earthquake-Prediction (Accessed: 30 November 2019).
