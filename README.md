@@ -30,9 +30,10 @@
 ### 「Kaggle (py310)」での主な変更点
 
 - 注：乱数やライブラリの仕様変更などの問題で、初版と合わせた公開したファイルと実行結果が一致しない場合があります。
-- LightGBMの[仕様変更](https://github.com/microsoft/LightGBM/pull/4908)に伴い`early_stopping_rounds`引数を削除しました。
-- ch03_02.ipynbで`dataiter.next()`を`next(dataiter)`に変更しました。
-- ch03_03.ipynbで`word2vec.Word2Vec`の引数の`size`を`vector_size`に変更しました。
+- 第5刷：LightGBMの[仕様変更](https://github.com/microsoft/LightGBM/pull/4908)に伴い`early_stopping_rounds`引数を削除しました。
+- 第5刷：ch03_02.ipynbで`dataiter.next()`を`next(dataiter)`に変更しました。
+- 第5刷：ch03_03.ipynbで`word2vec.Word2Vec`の引数の`size`を`vector_size`に変更しました。
+- 第6刷：ch02_03.ipynbでimportするライブラリ名を`pandas_profiling`から`ydata_profiling`に変更しました。
 
 ## よくある質問（FAQ）
 
